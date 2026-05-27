@@ -1,0 +1,618 @@
+[
+  {
+    "title": "6th Sunday (A)",
+    "date": "2026-02-15",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1771152980160-WUGB4CBVLO0EF4S9V0T3/6th+Sunday+%28A%29.m4a",
+    "duration": "05:34:00"
+  },
+  {
+    "title": "5th Sunday (A)",
+    "date": "2026-02-14",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1771089924042-Y3JY7GV25AUR255O1H3G/5th+Sunday+%28A%29.m4a",
+    "duration": "05:25:00"
+  },
+  {
+    "title": "4th Sunday (A)",
+    "date": "2026-01-31",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1769867455775-ZHKIHV8Z4AX4G8441QQN/4th+Sunday+%28A%29.m4a",
+    "duration": "04:39:00"
+  },
+  {
+    "title": "3rd Sunday (A)",
+    "date": "2026-01-24",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1769300379254-HDXS1RVE2AVJNKEAB9JW/3rd+Sunday+%28A%29.m4a",
+    "duration": "03:55:00"
+  },
+  {
+    "title": "2nd Sunday (A)",
+    "date": "2026-01-19",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1768855103477-HIOQH6S5H5TXAZ1A0R54/2nd+Sunday+%28A%29.m4a",
+    "duration": "04:50:00"
+  },
+  {
+    "title": "The Baptism of the Lord",
+    "date": "2026-01-12",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1768232982245-LB788A8F9ZP5X4CSN1XF/The+Baptism+of+the+Lord.m4a",
+    "duration": "04:31:00"
+  },
+  {
+    "title": "Epiphany 2025",
+    "date": "2026-01-03",
+    "season": "Christmas",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1767461502474-7XQSVGIZ1LMA61CJNSFM/Epiphany+2025.m4a",
+    "duration": "03:51:00"
+  },
+  {
+    "title": "Feast of the Holy Family",
+    "date": "2025-12-27",
+    "season": "Christmas",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1766876693533-3ARKP5BUFB2SE7AXJ7H0/Feast+of+the+Holy+Family.m4a",
+    "duration": "05:17:00"
+  },
+  {
+    "title": "Christmas 2025",
+    "date": "2025-12-24",
+    "season": "Christmas",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1766606323629-U5FRE1QRJCQYSUB3FWJV/Christmas+2025.m4a",
+    "duration": "05:23:00"
+  },
+  {
+    "title": "4th Sunday Advent (A)",
+    "date": "2025-12-23",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1766528825056-99L2WOW8T2EHPSUU4OD3/4th+Sunday+Advent+%28A%29.m4a",
+    "duration": "05:42:00"
+  },
+  {
+    "title": "3rd Sunday Advent",
+    "date": "2025-12-13",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1765668749820-G05DSGNZ9FQR9FQKIZQU/3rd+Sunday+Advent.m4a",
+    "duration": "05:03:00"
+  },
+  {
+    "title": "2nd Sunday Advent (A)",
+    "date": "2025-12-07",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1765125052777-BHIZPXZK4PARB5UCHTIA/2nd+Sunday+Advent+%28A%29.m4a",
+    "duration": "04:50:00"
+  },
+  {
+    "title": "1st Sunday Advent (A)",
+    "date": "2025-11-29",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1764447894831-VOWD9KRBXFWQE040RU79/1st+Sunday+Advent+%28A%29.m4a",
+    "duration": "04:30:00"
+  },
+  {
+    "title": "Christ the King",
+    "date": "2025-11-23",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1763930539976-FVCMCM1EGSX1QGOG8YYH/Christ+the+King.m4a",
+    "duration": "04:35:00"
+  },
+  {
+    "title": "33rd Sunday (C)",
+    "date": "2025-11-16",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1763311726470-1CAHNU5OS8K2CH3F6NV1/33rd+Sunday+%28C%29.m4a",
+    "duration": "05:21:00"
+  },
+  {
+    "title": "Dedication of St. John Lateran Church",
+    "date": "2025-11-08",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1762625620812-3HUKO5F7ZF73FE38SZ49/Dedication+of+St.+John+Lateran+Church.m4a",
+    "duration": "06:06:00"
+  },
+  {
+    "title": "All Souls Day",
+    "date": "2025-11-03",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1762222341882-0SZJ0WLPXMC1H9TIUQJ2/All+Souls+Day.m4a",
+    "duration": "05:03:00"
+  },
+  {
+    "title": "+30th Sunday (C)",
+    "date": "2025-10-26",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1761492763082-C8H3A6ZDNFLPMZUDEK5Z/+30th+Sunday+%28C%29.m4a",
+    "duration": "05:04:00"
+  },
+  {
+    "title": "29th (C)",
+    "date": "2025-10-18",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1760810918110-MN3VYJMAYV20U8DFFQGI/29th+%28C%29.m4a",
+    "duration": "05:27:00"
+  },
+  {
+    "title": "28th (C)",
+    "date": "2025-10-12",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1760310807870-BIQ3BLZJU1P6LBHHWGQZ/28th+%28C%29.m4a",
+    "duration": "04:32:00"
+  },
+  {
+    "title": "27th (C)",
+    "date": "2025-10-05",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1759669382721-TH3BWOJ8E0WIV9Y22G7A/27th+%28C%29.m4a",
+    "duration": "05:14:00"
+  },
+  {
+    "title": "26th Sunday (C)",
+    "date": "2025-09-28",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1759075346452-9LVL55A4DWFT6I8BOD4S/26th+Sunday+%28C%29.m4a",
+    "duration": "05:22:00"
+  },
+  {
+    "title": "25th Sunday (C)",
+    "date": "2025-09-21",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1758455688114-I2XXJN68DZ3O1MWYI6IJ/25th+Sunday+%28C%29.m4a",
+    "duration": "05:17:00"
+  },
+  {
+    "title": "Exultation of the Holy Cross",
+    "date": "2025-09-13",
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1757779858360-Y4GSH5G1CJM0QPLOCWJH/Exultation+of+the+Holy+Cross.m4a",
+    "duration": "04:45:00"
+  },
+  {
+    "title": "23rd Sunday (C)",
+    "date": "2025-09-07",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1757246818760-5AC9D8CYVG0S3C9DHY9H/23rd+Sunday+%28C%29.m4a",
+    "duration": "05:44:00"
+  },
+  {
+    "title": "22nd Sunday (C)",
+    "date": "2025-08-30",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1756580120327-IKCI2C2NRIQERRTQS9ZT/22nd+Sunday+%28C%29.m4a",
+    "duration": "05:00:00"
+  },
+  {
+    "title": "21st Sunday (C)",
+    "date": "2025-08-23",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1755989699318-AEZ0IUV77L6FRJID2YLG/21st+Sunday+%28C%29.m4a",
+    "duration": "05:55:00"
+  },
+  {
+    "title": "20th Sunday (C)",
+    "date": "2025-08-17",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1755441503199-UXW2L16G4POA3XI9L6UZ/20th+Sunday+%28C%29.m4a",
+    "duration": "05:16:00"
+  },
+  {
+    "title": "19th Sunday (C)",
+    "date": "2025-08-10",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1754836439318-XO900XW0NB4KV240VANU/19th+Sunday+%28C%29.m4a",
+    "duration": "05:15:00"
+  },
+  {
+    "title": "18th  Sunday (C)",
+    "date": "2025-08-03",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1754229330495-YW49UDH1XEKBS0LTUAJW/18th++Sunday+%28C%29.m4a",
+    "duration": "05:23:00"
+  },
+  {
+    "title": "17th (C)",
+    "date": "2025-07-26",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1753556979528-UNERAVUXSKJMLHQ0DOH0/17th+%28C%29.m4a",
+    "duration": "05:05:00"
+  },
+  {
+    "title": "16th Sunday (C)",
+    "date": "2025-07-19",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1752964642617-PBW9T5MJ0FU4E2TIJYO8/16th+Sunday+%28C%29.m4a",
+    "duration": "04:52:00"
+  },
+  {
+    "title": "15th Sunday (C)",
+    "date": "2025-07-14",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1752504781205-CQRCBXFV81TYJ1ZQG66P/15th+Sunday+%28C%29.m4a",
+    "duration": "05:21:00"
+  },
+  {
+    "title": "14th Sunday (C)",
+    "date": "2025-07-06",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1751806790494-5PALG02LS4PQ1EUTED08/14th+Sunday+%28C%29.m4a",
+    "duration": "05:15:00"
+  },
+  {
+    "title": "Saints Peter and Paul",
+    "date": "2025-06-29",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1751221903784-RLQDRN1LXXZ9SJUBEKPD/Saints+Peter+and+Paul.m4a",
+    "duration": "06:46:00"
+  },
+  {
+    "title": "Body & Blood of the Lord",
+    "date": "2025-06-22",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1750647541420-C02TXC83XB3D0OFUX81U/Body+&+Blood+of+the+Lord.m4a",
+    "duration": "05:08:00"
+  },
+  {
+    "title": "Holy Trinity",
+    "date": "2025-06-15",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1750017102204-2TTX4JQCESMLRXGOZCMA/Holy+Trinity.m4a",
+    "duration": "05:07:00"
+  },
+  {
+    "title": "Pentecost Sunday",
+    "date": "2025-06-07",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1749308617263-11EWZ5WSN7VCLZ54W8MA/Pentecost+Sunday.m4a",
+    "duration": "04:47:00"
+  },
+  {
+    "title": "7th Sunday Easter (C)",
+    "date": "2025-05-31",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1748748972437-SH8RVF2UMXINKX1385TC/7th+Sunday+Easter+%28C%29.m4a",
+    "duration": "04:35:00"
+  },
+  {
+    "title": "6th Sunday Easter (C)",
+    "date": "2025-05-25",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1748208631674-0PIP0XONY6R6MV7C9OW0/6th+Sunday+Easter+%28C%29.m4a",
+    "duration": "04:29:00"
+  },
+  {
+    "title": "5th Sunday Easter (C)",
+    "date": "2025-05-18",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1747575439434-8BZI32C324O4DJBL42TE/5th+Sunday+Easter+%28C%29.m4a",
+    "duration": "04:35:00"
+  },
+  {
+    "title": "4th Sunday Easter (C)",
+    "date": "2025-05-11",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1746998661667-8BQI9H1DVQV898VZ1A9U/4th+Sunday+Easter+%28C%29.m4a",
+    "duration": "05:01:00"
+  },
+  {
+    "title": "3rd Sunday Easter (C)",
+    "date": "2025-05-04",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1746370965207-81ROI591N8JIGTOHLWCP/3rd+Sunday+Easter+%28C%29.m4a",
+    "duration": "04:54:00"
+  },
+  {
+    "title": "2nd Sunday of Easter",
+    "date": "2025-04-27",
+    "season": "Easter",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1745768243652-VX2I4K0984E5RZJT2CS7/2nd+Sunday+of+Easter.m4a",
+    "duration": "04:39:00"
+  },
+  {
+    "title": "Passion (Palm) Sunday (C)",
+    "date": "2025-04-13",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1744574291417-UOE88HOMHIG4A6F83XKL/Passion+%28Palm%29+Sunday+%28C%29.m4a",
+    "duration": "02:09:00"
+  },
+  {
+    "title": "5th Sunday Lent (C)",
+    "date": "2025-04-06",
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1743991583004-2POIG66VG5AX3U8H4LH9/5th+Sunday+Lent+%28C%29.m4a",
+    "duration": "05:31:00"
+  },
+  {
+    "title": "4th Sunday Lent (C)",
+    "date": "2025-03-31",
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1743429478176-KZQDUVCEHWGIH31OTZ2V/4th+Sunday+Lent+%28C%29.m4a",
+    "duration": "03:59:00"
+  },
+  {
+    "title": "3rd Sunday Lent (C)",
+    "date": "2025-03-22",
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1742681965070-CM1M6EY2KM18B6X29KM3/3rd+Sunday+Lent+%28C%29.m4a",
+    "duration": "05:20:00"
+  },
+  {
+    "title": "2nd  Lent (C)",
+    "date": "2025-03-13",
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1741867140195-S3A6STNAGR1EU2D6F4OT/2nd++Lent+%28C%29.m4a",
+    "duration": "04:12:00"
+  },
+  {
+    "title": "1st Sunday Lent (C)",
+    "date": "2025-03-06",
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1741301837981-MWFEPTVTNXVK0VHFPOBT/1st+Sunday+Lent+%28C%29.m4a",
+    "duration": "05:07:00"
+  },
+  {
+    "title": "8th Sunday (C)",
+    "date": "2025-02-26",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1740574304580-IZNN0AQY1E7XI5AJAUQX/8th+Sunday+%28C%29.m4a",
+    "duration": "04:25:00"
+  },
+  {
+    "title": "7th Sunday (C)",
+    "date": "2025-02-23",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1740317928410-1E2SNIVIIB852VXMUN3B/7th+Sunday+%28C%29.m4a",
+    "duration": "05:24:00"
+  },
+  {
+    "title": "6th Sunday (C)",
+    "date": "2025-02-15",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1739639083355-DWUNK1PHFBJED0V08MHB/6th+Sunday+%28C%29.m4a",
+    "duration": "05:17:00"
+  },
+  {
+    "title": "5th Sunday (C)",
+    "date": "2025-02-08",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1739049391636-SPRUBFM77YKP7O91ZJKH/5th+Sunday+%28C%29.m4a",
+    "duration": "04:50:00"
+  },
+  {
+    "title": "Presentation of the Lord (1)",
+    "date": "2025-01-27",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1738024572448-QCA8DD2LUYIWIO8VGQE8/Presentation+of+the+Lord+%281%29.m4a",
+    "duration": "04:18:00"
+  },
+  {
+    "title": "3rd Sunday (C)",
+    "date": "2025-01-26",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1737928889266-E7CQUMK2ZBGGR6TBQLVB/3rd+Sunday+%28C%29.m4a",
+    "duration": "05:08:00"
+  },
+  {
+    "title": "2nd Sunday (C)",
+    "date": "2025-01-19",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1737263652957-NJRGQGJDJ0TRHBZTGXHO/2nd+Sunday+%28C%29.m4a",
+    "duration": "07:31:00"
+  },
+  {
+    "title": "Baptism of the Lord",
+    "date": "2025-01-12",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1736714459574-ULMZF84RICLLMPJ07HWB/Baptism+of+the+Lord.m4a",
+    "duration": "04:38:00"
+  },
+  {
+    "title": "Baptism of the Lord",
+    "date": "2025-01-11",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1736631483481-OP8AOFF58746ANKFVB3T/Baptism+of+the+Lord.m4a",
+    "duration": "04:38:00"
+  },
+  {
+    "title": "Epiphany Sunday",
+    "date": "2025-01-04",
+    "season": "Christmas",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1736006849196-HCYI4NQXSB4IC0RQCZPP/Epiphany+Sunday.m4a",
+    "duration": "04:36:00"
+  },
+  {
+    "title": "Holy Family C)",
+    "date": "2024-12-27",
+    "season": "Christmas",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1735318889582-VAMPEA5AUHBVACOHP73E/Holy+Family+C%29.m4a",
+    "duration": "05:32:00"
+  },
+  {
+    "title": "Christmas 2024",
+    "date": "2024-12-25",
+    "season": "Christmas",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1735146867684-7OUBMMAP6RWBZ8H87BIM/Christmas+2024.m4a",
+    "duration": "05:40:00"
+  },
+  {
+    "title": "4th Sunday Advent(C)",
+    "date": "2024-12-22",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1734905596777-E64IW8NL8TDM09SM4GJO/4th+Sunday+Advent%28C%29.m4a",
+    "duration": "06:16:00"
+  },
+  {
+    "title": "3rd Sunday Advent (C)",
+    "date": "2024-12-16",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1734402817669-L395UYLCVKDOGP5GSCXG/3rd+Sunday+Advent+%28C%29.m4a",
+    "duration": "05:26:00"
+  },
+  {
+    "title": "2nd Sunday of Advent (C)",
+    "date": "2024-12-08",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1733678453000-YC67FMSILUGQVB04RUYP/2nd+Sunday+of+Advent+%28C%29.m4a",
+    "duration": "05:00:00"
+  },
+  {
+    "title": "Christ the King (B)",
+    "date": "2024-11-22",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1732284167842-ZL11KUES7POBQB057UMC/Christ+the+King+%28B%29.m4a",
+    "duration": "05:33:00"
+  },
+  {
+    "title": "33rd Sunday (B)",
+    "date": "2024-11-13",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1731555435920-OV75WJ56PNH8M6O0MF5U/33rd+Sunday+%28B%29.m4a",
+    "duration": "02:20:00"
+  },
+  {
+    "title": "32nd Sunday (B)",
+    "date": "2024-11-07",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1730983593244-DXF47ECNHLZ77UWXB7K0/32nd+Sunday+%28B%29.m4a",
+    "duration": "06:27:00"
+  },
+  {
+    "title": "31st Sunday (B)",
+    "date": "2024-11-03",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1730647276637-TYRT0Y0HRFCHQ31LPQ0A/31st+Sunday+%28B%29.m4a",
+    "duration": "04:24:00"
+  },
+  {
+    "title": "30th Sunday (B)",
+    "date": "2024-10-25",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1729871792401-PLZRRF8M79URBKEUDLJ3/30th+Sunday+%28B%29.m4a",
+    "duration": "05:11:00"
+  },
+  {
+    "title": "29th Sunday (B)",
+    "date": "2024-10-24",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1729771659278-PLXN1X5VH55VVMA9G39L/29th+Sunday+%28B%29.m4a",
+    "duration": "05:55:00"
+  },
+  {
+    "title": "28th Sunday (B) (1)",
+    "date": "2024-10-18",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1729254363956-FDNLT0NFI01TW9A4ZE1Z/28th+Sunday+%28B%29+%281%29.m4a",
+    "duration": "05:37:00"
+  },
+  {
+    "title": "27th Sunday (B)",
+    "date": "2024-10-11",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1728685575077-GY2LA527R9GKNXD71JKZ/27th+Sunday+%28B%29.m4a",
+    "duration": "05:05:00"
+  },
+  {
+    "title": "26th Sunday (B)",
+    "date": "2024-10-11",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1728684391492-KHL333OP66PAVNYM0AZ7/26th+Sunday+%28B%29.m4a",
+    "duration": "05:21:00"
+  },
+  {
+    "title": "25th Sunday (B)",
+    "date": "2024-09-28",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1727527303968-VKFTG70YSI1GF6Y977YT/25th+Sunday+%28B%29.m4a",
+    "duration": "06:23:00"
+  },
+  {
+    "title": "24th Sunday (B)",
+    "date": "2024-09-16",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1726512522946-RGIPN5MZI2QJCZ0RK1GZ/24th+Sunday+%28B%29.m4a",
+    "duration": "05:42:00"
+  },
+  {
+    "title": "22nd Sunday (B)",
+    "date": "2024-09-04",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1725464857734-2TGQ1QJIB5J79GX8375T/22nd+Sunday+%28B%29.m4a",
+    "duration": "05:25:00"
+  },
+  {
+    "title": "22nd Sunday (B)",
+    "date": "2024-08-31",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1725149874221-7PP7MBZBYYKKQLV10K0G/22nd+Sunday+%28B%29.m4a",
+    "duration": "05:25:00"
+  },
+  {
+    "title": "21st Sunday (B)",
+    "date": "2024-08-24",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1724528750290-W59A4J1RUYS5A5YD013Q/21st+Sunday+%28B%29.m4a",
+    "duration": "05:50:00"
+  },
+  {
+    "title": "Voice 003",
+    "date": "2024-08-16",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1723865717875-TWV78FUS0UZI1YO12QT7/Voice+003.m4a",
+    "duration": "04:27:00"
+  },
+  {
+    "title": "20th (B)",
+    "date": "2024-08-15",
+    "season": "Ordinary Time",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1723747709168-KQWR3N5L7D790MDMD7MG/20th+%28B%29.m4a",
+    "duration": "04:44:00"
+  },
+  {
+    "title": "CycleC-AdventSunday1",
+    "date": "2024-08-04",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1722790081980-1E7F3HV0FDMMVP8Z929Z/CycleC-AdventSunday1.m4a",
+    "duration": "04:37:00"
+  },
+  {
+    "title": "CycleC-AdventSunday1",
+    "date": "2024-08-02",
+    "season": "Advent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1722621677162-FTY2Z2E4FIUKJCPJIOSG/CycleC-AdventSunday1.m4a",
+    "duration": "05:09:00"
+  },
+  {
+    "title": "5th Sunday Lent (A)",
+    "date": null,
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1774117840346-52N33IWIBOOP3VTUCS2O/5th+Sunday+Lent+%28A%29.m4a",
+    "duration": "05:01:00"
+  },
+  {
+    "title": "4th Sunday Lent ( A)",
+    "date": null,
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1773495563334-RN5C5G7STYG33Z1F5JU2/4th+Sunday+Lent+%28+A%29.m4a",
+    "duration": "05:03:00"
+  },
+  {
+    "title": "3rd Sunday Lent (A)",
+    "date": null,
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1772898765855-EFUX6PBWFUVBBFT81OT0/3rd+Sunday+Lent+%28A%29.m4a",
+    "duration": "03:00:00"
+  },
+  {
+    "title": "2nd Sunday Lent (A)",
+    "date": null,
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1772300339108-1TQ2C7ZYBQESC721AKQ6/2nd+Sunday+Lent+%28A%29.m4a",
+    "duration": "05:16:00"
+  },
+  {
+    "title": "1st Sunday Lent (A)",
+    "date": null,
+    "season": "Lent",
+    "audio_url": "https://audio.squarespace-cdn.com/content/v2/namespaces/website/libraries/66999f9ff331c51d777358c1/assets/1771776372630-ANQ4BWR43V2ICEQEP9DI/1st+Sunday+Lent+%28A%29.m4a",
+    "duration": "05:40:00"
+  }
+]
